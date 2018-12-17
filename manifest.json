@@ -13,6 +13,9 @@
       "scripts/background.js"
     ]
   },
+  "web_accessible_resources": [
+    "scripts/static/cal.udm.js"
+  ],
   "permissions": [
     "tabs",
     "storage",
@@ -44,5 +47,3 @@
     "default_popup": "popup.html"
   }
 }
-
-
